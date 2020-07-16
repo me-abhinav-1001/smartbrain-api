@@ -18,7 +18,7 @@ const db = knex({
         database: 'smartbrain'
     }
 });
-
+// declaring database
 
 const app =express();
 
